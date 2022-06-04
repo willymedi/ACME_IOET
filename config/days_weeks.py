@@ -1,0 +1,1 @@
+DAYS_OF_WEEK = ["MO", "TU", "WE", "TH", "FR", "SA", "SU"]
